@@ -1,20 +1,22 @@
 # Hello, World... 🌎
 
 #  🧒🏻 Presentation
-<div style="display: flex; align-items: center; gap: 24px;">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./images/me-icon.svg" width="350" height="100">
-        <source media="(prefers-color-scheme: light)" srcset="./images/me-icon.svg" width="350" height="150">
-        <img alt="YOUR-ALT-TEXT" src="./images/me-icon.svg" width="350" height="200">
-    </picture>
-    <div>
-        Hola 👋🏻, soy Eduardo! <br>
-        <strong>Desarrollador de Software jr.,</strong> mayormente orientado en tecnologías web.
-        Me encanta la arquitectura, planeación y codificación de proyectos de software.  <br><br>
-        Hi 👋🏻, I'm Eduardo!<br>
-        <strong>Junior Software Developer</strong>, mostly focused on web technologies. I love software project architecture, planning, and coding.
-    </div>
-</div> 
+<table border="disabled">
+    <tr>
+        <td><picture >
+            <source media="(prefers-color-scheme: dark)" srcset="./images/me-icon.svg" style="width: 10px;" width="350" height="100">
+            <source media="(prefers-color-scheme: light)" srcset="./images/me-icon.svg" width="350" height="150">
+            <img alt="YOUR-ALT-TEXT" src="./images/me-icon.svg" width="350" height="150"> 
+            </picture>
+        </td>
+        <td> Hola 👋🏻, soy Eduardo! <br>
+            <strong>Desarrollador de Software jr.,</strong> mayormente orientado en tecnologías web.
+            Me encanta la arquitectura, planeación y codificación de proyectos de software.  <br><br>  
+            Hi 👋🏻, I'm Eduardo!   
+            <strong>Junior Software Developer</strong>, mostly focused on web technologies. I love software project architecture, planning, and coding.
+        </td>
+    </tr>
+</table>  
 </br>
 
 
